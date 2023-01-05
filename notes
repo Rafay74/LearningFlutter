@@ -1,0 +1,28 @@
+Flutter app dev is all about widgets. So widgets describe structure of ur app
+
+Widgets are classes.
+
+Key widgets that are used in flutter app:
+-  Root Widget:
+      App Bar Widget
+         Text Widget
+      Container Widget
+         Text Widget
+
+Other different widgets are:
+ Text Widgets:
+    style Property
+    textAlign
+    overflow
+    maxlines
+    
+    
+ Button Widget:
+  color
+  elevation
+  disabledColor
+  enabled
+  
+  
+ , Row , Column , Image Widgets.
+ 
